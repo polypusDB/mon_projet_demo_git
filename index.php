@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-    echo "hello world";
+    echo "hello world et les autres aller mourrir dans un pit de merde";
     echo "tu es une patate";
 ?>
 </body>
