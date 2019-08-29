@@ -8,7 +8,11 @@
 </head>
 <body>
 <?php
+<<<<<<< HEAD
     echo "hello world et les autres aller mourrir dans un pit de merde";
+=======
+    echo "hello world et les autre je vous aimes";
+>>>>>>> c10b200bfcce32d5afb66441409e583319b8eb5a
     echo "tu es une patate";
 ?>
 </body>
